@@ -44,11 +44,3 @@ Luego, se deben analizar los resultados:
    pip install -r requirements.txt
 
 ---
-
-## 🧪 Instalación y ejecución
-
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/usuario/tp1-tfidf.git
-cd tp1-tfidf
