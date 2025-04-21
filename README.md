@@ -1,4 +1,4 @@
-# 📊 Análisis de Lenguajes de Programación con TF-IDF
+# 📊 Análisis de Lenguajes de Programación - Pipeline
 
 ## 🎯 Objetivo
 Aplicar procesamiento de lenguaje natural (NLP) usando TF-IDF para analizar el contenido del archivo `CorpusLenguajes.txt`, siguiendo una **canalización (pipeline)** completa.

@@ -58,7 +58,7 @@ print("\n Vocabulario generado:")
 print(vectorizer.get_feature_names_out())
 
 # ---------------------------------------
-# Consigna 2: Análisis del corpus
+# Análisis del corpus y gráfico
 # ---------------------------------------
 
 # 1. Jerarquía de las 6 palabras más usadas
