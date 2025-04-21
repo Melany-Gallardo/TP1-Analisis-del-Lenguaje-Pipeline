@@ -13,7 +13,7 @@
 
 ---
 
-## Palabras más frecuentes y relevantes
+## Palabras más frecuentes / más repetidas en una misma oración
 
 Las 6 palabras con mayor puntuación TF-IDF fueron:
 
@@ -24,12 +24,25 @@ Las 6 palabras con mayor puntuación TF-IDF fueron:
 5. `language`
 6. `interpreted`
 
+Las palabras más repetidas en una misma oración fueron:
+
+`language`
+`artificial`
+`typed`
+`java`
+`cloud`
+`due`
+`backend`
+`compilation`
+`available`
+`beginner`
+
 ---
 
 ## 🧠 Análisis de las frases
 
 - Se identificaron oraciones que repiten términos clave de uso constante, lo que sugiere la presencia de conceptos centrales en el corpus que pueden ayudar a comprenderlo más.
-- La palabra menos frecuente puede representar una idea muy específica o poco tratada de la cual no se hace tanto incapie en el corpus.
+- La palabra menos frecuente es "dynamically", la cual puede representar una idea muy específica o poco tratada de la cual no se hace tanto incapie en el corpus.
 
 ---
 
